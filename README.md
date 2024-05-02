@@ -18,7 +18,7 @@ This project implements a Convolutional Neural Network (CNN) for recognizing Ban
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/bangla-character-recognition.git
+git clone https://github.com/tazim5032/bangla-character-recognition.git
 ```
 
 2. Install the required dependencies:
